@@ -12,3 +12,11 @@ npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
 # 3words-onchain-nft-contract
+
+3語を組み合わせてオンチェーンのNFTを作成できます．
+
+https://3words-onchain-nft-page.vercel.app/
+
+フロントエンド
+
+https://github.com/phi7/3words-onchain-nft-page
